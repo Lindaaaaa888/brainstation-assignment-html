@@ -1,0 +1,20 @@
+#center {
+	color:green;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+.boldtext{
+   font-size: 20px;
+   font-weight: bold;
+   text-align: center;
+}
+
+section.distance {
+	width: 200;
+	border: 2px dotted green;
+	padding:10px, 20px;
+}
+p.exl{
+	margin: 30px;
+}
